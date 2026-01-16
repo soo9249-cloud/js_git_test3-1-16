@@ -1,0 +1,8 @@
+streamlit # 웹앱 만들기 위한 라이브러리
+pandas # 데이터프레임 다루기 위한 라이브러리
+matplotlib # 그래프 그리기 위한 라이브러리(더 이쁘게)
+seaborn # 데이터 시각화를 위한 라이브러리
+numpy # 수치 계산을 위한 라이브러리
+
+# 라이브러리 명만 달기
+# pip install -r requirements.txt 터미널에 치기(한번에 깔림)

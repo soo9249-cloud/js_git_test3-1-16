@@ -1,0 +1,1 @@
+path="../image/aa.jpg" # a.jpg 파일을 불러오는 법
